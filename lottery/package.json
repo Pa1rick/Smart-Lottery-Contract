@@ -1,0 +1,26 @@
+{
+  "name": "solidity-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pa1rick/Solidity-Compiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pa1rick/Solidity-Compiler/issues"
+  },
+  "homepage": "https://github.com/Pa1rick/Solidity-Compiler#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.1",
+    "mocha": "^8.2.1",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.3.0"
+  }
+}
